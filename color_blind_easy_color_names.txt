@@ -1,0 +1,1105 @@
+# Good and easy color name descriptions for Color Blind persons.
+
+# Extracted from a section from the free accessible file 
+# https://www.hikarun.com/e/color-fr.xml
+#
+# This is from a free color picker for windows that already has many years.
+# With this reformated file and program that I'm making, you can use those
+# fantastic descriptions of colors with very simple shell scripts or programs
+# in any operating systems, Windows, Mac, Linux (X and wayland)  
+#
+# ez912_v1.0
+# Description: Choose a color name from 912 colors of ez912_v1.0 .
+# Result may vary depending on difference method used. By E Zankl.
+
+# Format
+# rgb color description
+
+rgb 000000 Black
+rgb FFFFFF White
+
+rgb 080000 Reddish Black
+rgb 080400 Orangish Black
+rgb 080800 Yellowish Black
+rgb 040800 Limish Black
+rgb 000800 Greenish Black
+rgb 000804 Springish Black
+rgb 000808 Cyanish Black
+rgb 000408 Azurish Black
+rgb 000008 Bluish Black
+rgb 040008 Violetish Black
+rgb 080008 Magentaish Black
+rgb 080004 Pinkish Black
+
+rgb 080200 Red-Orange'ish Black
+rgb 080600 Orange-Yellow'ish Black
+rgb 060800 Yellow-Lime'ish Black
+rgb 020800 Lime-Green'ish Black
+rgb 000802 Green-Spring'ish Black
+rgb 000806 Spring-Cyan'ish Black
+rgb 000608 Cyan-Azure'ish Black
+rgb 000208 Azure-Blue'ish Black
+rgb 020008 Blue-Violet'ish Black
+rgb 060008 Violet-Magenta'ish Black
+rgb 080006 Magenta-Pink'ish Black
+rgb 080002 Pink-Red'ish Black
+
+rgb FF0505 Red
+rgb FF4304 Red-Orange
+rgb FF8104 Orange
+rgb FFC004 Orange-Yellow
+rgb FFFF04 Yellow
+rgb C0FF04 Yellow-Lime
+rgb 81FF04 Lime
+rgb 43FF04 Lime-Green
+rgb 04FF04 Green
+rgb 04FF43 Green-Spring
+rgb 04FF81 Spring
+rgb 05FFC0 Spring-Cyan
+
+rgb 04FFFF Cyan
+rgb 04C0FF Cyan-Azure
+rgb 0582FF Azure
+rgb 0443FF Azure-Blue
+rgb 0404FF Blue
+rgb 4304FF Blue-Violet
+rgb 8105FF Violet
+rgb C004FF Violet-Magenta
+rgb FF04FF Magenta
+rgb FF04C0 Magenta-Pink
+rgb FF0582 Pink
+rgb FF0443 Pink-Red
+
+rgb FF0000 Red
+rgb FF3232 Slightly Whitish Red
+rgb FF6565 Whitish Red
+rgb FF9999 White Red
+rgb FFBFBF Reddish White
+rgb FFD8D8 Moderately Reddish White
+rgb FFF7F7 Slightly Reddish White
+
+rgb E50000 Slightly Dark Red
+rgb E52D2D Slightly Dark Slightly Whitish Red
+rgb E55A5A Slightly Dark Whitish Red
+rgb E58989 Slightly Dark White Red
+rgb E5ACAC Slightly Dark Reddish White
+rgb E5CECE Slightly Dark Moderately Reddish White
+
+rgb BF0000 Medium Dark Red
+rgb BF2626 Medium Dark Slightly Whitish Red
+rgb BF4C4C Medium Dark Whitish Red
+rgb BF7272 Medium Dark White Red
+rgb BF8F8F Medium Dark Reddish White
+rgb BFACAC Medium Dark Moderately Reddish White
+
+rgb 990000 Dark Red
+rgb 991E1E Dark Slightly Whitish Red
+rgb 993D3D Dark Whitish Red
+rgb 995B5B Dark White Red
+rgb 997272 Dark Reddish White
+rgb 998989 Dark Moderately Reddish White
+
+rgb 660000 Very Dark Red
+rgb 661414 Very Dark Slightly Whitish Red
+rgb 662929 Very Dark Whitish Red
+rgb 663D3D Very Dark White Red
+rgb 664C4C Very Dark Reddish White
+rgb 665C5C Very Dark Moderately Reddish White
+
+rgb 330000 Extremely Dark Red
+rgb 330A0A Extremely Dark Slightly Whitish Red
+rgb 331414 Extremely Dark Whitish Red
+rgb 331E1E Extremely Dark White Red
+rgb 332626 Extremely Dark Reddish White
+rgb 332E2E Extremely Dark Moderately Reddish White
+
+rgb FF7F00 Orange
+rgb FF9932 Slightly Whitish Orange
+rgb FFB265 Whitish Orange
+rgb FFCC99 White Orange
+rgb FFDFBF Orangish White
+rgb FFECD9 Moderately Orangish White
+rgb FFFBF7 Slightly Orangish White
+
+rgb E57200 Slightly Dark Orange
+rgb E5892D Slightly Dark Slightly Whitish Orange
+rgb E5A05B Slightly Dark Whitish Orange
+rgb E5B789 Slightly Dark White Orange
+rgb E5C8AC Slightly Dark Orangish White
+rgb E5D9CE Slightly Dark Moderately Orangish White
+
+rgb BF5F00 Medium Dark Orange
+rgb BF7226 Medium Dark Slightly Whitish Orange
+rgb BF854C Medium Dark Whitish Orange
+rgb BF9872 Medium Dark White Orange
+rgb BFA78F Medium Dark Orangish White
+rgb BFB4AA Medium Dark Moderately Orangish White
+
+rgb 994C00 Dark Orange
+rgb 995B1E Dark Slightly Whitish Orange
+rgb 996B3D Dark Whitish Orange
+rgb 997A5B Dark White Orange
+rgb 998572 Dark Orangish White
+rgb 999189 Dark Moderately Orangish White
+
+rgb 663300 Very Dark Orange
+rgb 663D14 Very Dark Slightly Whitish Orange
+rgb 664829 Very Dark Whitish Orange
+rgb 66513D Very Dark White Orange
+rgb 66594C Very Dark Orangish White
+rgb 66615C Very Dark Moderately Orangish White
+
+rgb 3F1F00 Extremely Dark Orange
+rgb 3F260D Extremely Dark Slightly Whitish Orange
+rgb 3F2C19 Extremely Dark Whitish Orange
+rgb 3F3326 Extremely Dark White Orange
+rgb 3F372F Extremely Dark Orangish White
+rgb 3F3C39 Extremely Dark Moderately Orangish White
+
+rgb FFFF00 Yellow
+rgb FFFF31 Slightly Whitish Yellow
+rgb FFFF65 Whitish Yellow
+rgb FFFF99 White Yellow
+rgb FFFFBF Yellowish White
+rgb FFFFD8 Moderately Yellowish White
+rgb FFFFF7 Slightly Yellowish White
+
+rgb E5E500 Slightly Dark Yellow
+rgb E5E52D Slightly Dark Slightly Whitish Yellow
+rgb E5E55A Slightly Dark Whitish Yellow
+rgb E5E589 Slightly Dark White Yellow
+rgb E5E5AC Slightly Dark Yellowish White
+rgb E5E5CE Slightly Dark Moderately Yellowish White
+
+rgb BFBF00 Medium Dark Yellow
+rgb BFBF25 Medium Dark Slightly Whitish Yellow
+rgb BFBF4C Medium Dark Whitish Yellow
+rgb BFBF72 Medium Dark White Yellow
+rgb BFBF8F Medium Dark Yellowish White
+rgb BFBFAC Medium Dark Moderately Yellowish White
+
+rgb 999900 Dark Yellow
+rgb 99991E Dark Slightly Whitish Yellow
+rgb 99993D Dark Whitish Yellow
+rgb 99995B Dark White Yellow
+rgb 999972 Dark Yellowish White
+rgb 999989 Dark Moderately Yellowish White
+
+rgb 666600 Very Dark Yellow
+rgb 666614 Very Dark Slightly Whitish Yellow
+rgb 666628 Very Dark Whitish Yellow
+rgb 66663D Very Dark White Yellow
+rgb 66664C Very Dark Yellowish White
+rgb 66665B Very Dark Moderately Yellowish White
+
+rgb 333300 Extremely Dark Yellow
+rgb 33330A Extremely Dark Slightly Whitish Yellow
+rgb 333314 Extremely Dark Whitish Yellow
+rgb 33331E Extremely Dark White Yellow
+rgb 333326 Extremely Dark Yellowish White
+rgb 33332E Extremely Dark Moderately Yellowish White
+
+
+rgb 7FFF00 Lime
+rgb 98FF31 Slightly Whitish Lime
+rgb B2FF65 Whitish Lime
+rgb CCFF99 White Lime
+rgb DFFFBF Limish White
+rgb ECFFD9 Moderately Limish White
+rgb FBFFF7 Slightly Limish White
+
+rgb 72E500 Slightly Dark Lime
+rgb 89E52D Slightly Dark Slightly Whitish Lime
+rgb A0E55B Slightly Dark Whitish Lime
+rgb B7E589 Slightly Dark White Lime
+rgb C8E5AC Slightly Dark Limish White
+rgb D9E5CE Slightly Dark Moderately Limish White
+
+rgb 5FBF00 Medium Dark Lime
+rgb 72BF25 Medium Dark Slightly Whitish Lime
+rgb 85BF4C Medium Dark Whitish Lime
+rgb 98BF72 Medium Dark White Lime
+rgb A7BF8F Medium Dark Limish White
+rgb B5BFAB Medium Dark Moderately Limish White
+
+rgb 4C9900 Dark Lime
+rgb 5B991E Dark Slightly Whitish Lime
+rgb 6B993D Dark Whitish Lime
+rgb 7A995B Dark White Lime
+rgb 859972 Dark Limish White
+rgb 919989 Dark Moderately Limish White
+
+rgb 336600 Very Dark Lime
+rgb 3D6614 Very Dark Slightly Whitish Lime
+rgb 476628 Very Dark Whitish Lime
+rgb 51663D Very Dark White Lime
+rgb 59664C Very Dark Limish White
+rgb 61665C Very Dark Moderately Limish White
+
+rgb 193300 Extremely Dark Lime
+rgb 1E330A Extremely Dark Slightly Whitish Lime
+rgb 233314 Extremely Dark Whitish Lime
+rgb 28331E Extremely Dark White Lime
+rgb 2A3024 Extremely Dark Limish White
+rgb 30332D Extremely Dark Moderately Limish White
+
+rgb 00FF00 Green
+rgb 31FF31 Slightly Whitish Green
+rgb 65FF65 Whitish Green
+rgb 99FF99 White Green
+rgb BFFFBF Greenish White
+rgb D8FFD8 Moderately Greenish White
+rgb F7FFF7 Slightly Greenish White
+
+rgb 00E500 Slightly Dark Green
+rgb 2DE52D Slightly Dark Slightly Whitish Green
+rgb 5AE55A Slightly Dark Whitish Green
+rgb 89E589 Slightly Dark White Green
+rgb ACE5AC Slightly Dark Greenish White
+rgb CEE5CE Slightly Dark Moderately Greenish White
+
+rgb 00BF00 Medium Dark Green
+rgb 25BF25 Medium Dark Slightly Whitish Green
+rgb 4CBF4C Medium Dark Whitish Green
+rgb 72BF72 Medium Dark White Green
+rgb 8FBF8F Medium Dark Greenish White
+rgb ACBFAC Medium Dark Moderately Greenish White
+
+rgb 009900 Dark Green
+rgb 1E991E Dark Slightly Whitish Green
+rgb 3D993D Dark Whitish Green
+rgb 5B995B Dark White Green
+rgb 729972 Dark Greenish White
+rgb 899989 Dark Moderately Greenish White
+
+rgb 006600 Very Dark Green
+rgb 146614 Very Dark Slightly Whitish Green
+rgb 286628 Very Dark Whitish Green
+rgb 3D663D Very Dark White Green
+rgb 4C664C Very Dark Greenish White
+rgb 5C665C Very Dark Moderately Greenish White
+
+rgb 003300 Extremely Dark Green
+rgb 0A330A Extremely Dark Slightly Whitish Green
+rgb 143314 Extremely Dark Whitish Green
+rgb 1E331E Extremely Dark White Green
+rgb 263326 Extremely Dark Greenish White
+rgb 2E332E Extremely Dark Moderately Greenish White
+
+rgb 00FF7F Spring
+rgb 31FF98 Slightly Whitish Spring
+rgb 65FFB2 Whitish Spring
+rgb 99FFCC White Spring
+rgb BFFFDF Springish White
+rgb D9FFEC Moderately Springish White
+rgb F7FFFB Slightly Springish White
+
+rgb 00E572 Slightly Dark Spring
+rgb 2DE589 Slightly Dark Slightly Whitish Spring
+rgb 5BE5A0 Slightly Dark Whitish Spring
+rgb 89E5B7 Slightly Dark White Spring
+rgb ABE5C8 Slightly Dark Springish White
+rgb CEE5DA Slightly Dark Moderately Springish White
+
+rgb 00BF5F Medium Dark Spring
+rgb 25BF72 Medium Dark Slightly Whitish Spring
+rgb 4CBF85 Medium Dark Whitish Spring
+rgb 72BF98 Medium Dark White Spring
+rgb 8FBFA7 Medium Dark Springish White
+rgb ABBFB5 Medium Dark Moderately Springish White
+
+rgb 00994C Dark Spring
+rgb 1E995B Dark Slightly Whitish Spring
+rgb 3D996B Dark Whitish Spring
+rgb 5B997A Dark White Spring
+rgb 729985 Dark Springish White
+rgb 899991 Dark Moderately Springish White
+
+rgb 006633 Very Dark Spring
+rgb 14663D Very Dark Slightly Whitish Spring
+rgb 286647 Very Dark Whitish Spring
+rgb 3D6651 Very Dark White Spring
+rgb 4C6659 Very Dark Springish White
+rgb 59635E Very Dark Moderately Springish White
+
+rgb 003319 Extremely Dark Spring
+rgb 0A331E Extremely Dark Slightly Whitish Spring
+rgb 143323 Extremely Dark Whitish Spring
+rgb 1E3328 Extremely Dark White Spring
+rgb 24302A Extremely Dark Springish White
+rgb 292D2B Extremely Dark Moderately Springish White
+
+rgb 00FFFF Cyan
+rgb 31FFFF Slightly Whitish Cyan
+rgb 65FFFF Whitish Cyan
+rgb 99FFFF White Cyan
+rgb BFFFFF Cyanish White
+rgb D8FFFF Moderately Cyanish White
+rgb F7FFFF Slightly Cyanish White
+
+rgb 00E5E5 Slightly Dark Cyan
+rgb 2DE5E5 Slightly Dark Slightly Whitish Cyan
+rgb 5AE5E5 Slightly Dark Whitish Cyan
+rgb 89E5E5 Slightly Dark White Cyan
+rgb ACE5E5 Slightly Dark Cyanish White
+rgb CEE5E5 Slightly Dark Moderately Cyanish White
+
+rgb 00BFBF Medium Dark Cyan
+rgb 25BFBF Medium Dark Slightly Whitish Cyan
+rgb 4CBFBF Medium Dark Whitish Cyan
+rgb 72BFBF Medium Dark White Cyan
+rgb 8FBFBF Medium Dark Cyanish White
+rgb ACBFBF Medium Dark Moderately Cyanish White
+
+rgb 009999 Dark Cyan
+rgb 1E9999 Dark Slightly Whitish Cyan
+rgb 3D9999 Dark Whitish Cyan
+rgb 5B9999 Dark White Cyan
+rgb 729999 Dark Cyanish White
+rgb 899999 Dark Moderately Cyanish White
+
+rgb 006666 Very Dark Cyan
+rgb 146666 Very Dark Slightly Whitish Cyan
+rgb 286666 Very Dark Whitish Cyan
+rgb 3D6666 Very Dark White Cyan
+rgb 4C6666 Very Dark Cyanish White
+rgb 5C6666 Very Dark Moderately Cyanish White
+
+rgb 003333 Extremely Dark Cyan
+rgb 0A3333 Extremely Dark Slightly Whitish Cyan
+rgb 143333 Extremely Dark Whitish Cyan
+rgb 1E3333 Extremely Dark White Cyan
+rgb 263333 Extremely Dark Cyanish White
+rgb 2E3333 Extremely Dark Moderately Cyanish White
+
+rgb 007FFF Azure
+rgb 3299FF Slightly Whitish Azure
+rgb 65B2FF Whitish Azure
+rgb 99CCFF White Azure
+rgb BFDFFF Azurish White
+rgb D9ECFF Moderately Azurish White
+rgb F7FBFF Slightly Azurish White
+
+rgb 0072E5 Slightly Dark Azure
+rgb 2D89E5 Slightly Dark Slightly Whitish Azure
+rgb 5BA0E5 Slightly Dark Whitish Azure
+rgb 89B7E5 Slightly Dark White Azure
+rgb AAC6E2 Slightly Dark Azurish White
+rgb CCD7E2 Slightly Dark Moderately Azurish White
+
+rgb 005FBF Medium Dark Azure
+rgb 2672BF Medium Dark Slightly Whitish Azure
+rgb 4C85BF Medium Dark Whitish Azure
+rgb 7298BF Medium Dark White Azure
+rgb 8FA7BF Medium Dark Azurish White
+rgb ACB5BF Medium Dark Moderately Azurish White
+
+rgb 004C99 Dark Azure
+rgb 1E5B99 Dark Slightly Whitish Azure
+rgb 3D6B99 Dark Whitish Azure
+rgb 5B7A99 Dark White Azure
+rgb 728599 Dark Azurish White
+rgb 899199 Dark Moderately Azurish White
+
+rgb 003366 Very Dark Azure
+rgb 143D66 Very Dark Slightly Whitish Azure
+rgb 294766 Very Dark Whitish Azure
+rgb 3D5166 Very Dark White Azure
+rgb 4C5966 Very Dark Azurish White
+rgb 595E63 Very Dark Moderately Azurish White
+
+rgb 001933 Extremely Dark Azure
+rgb 0A1E33 Extremely Dark Slightly Whitish Azure
+rgb 142333 Extremely Dark Whitish Azure
+rgb 1E2833 Extremely Dark White Azure
+rgb 242A30 Extremely Dark Azurish White
+rgb 2D3033 Extremely Dark Moderately Azurish White
+
+rgb 0000FF Blue
+rgb 3232FF Slightly Whitish Blue
+rgb 6565FF Whitish Blue
+rgb 9999FF White Blue
+rgb BFBFFF Bluish White
+rgb D8D8FF Moderately Bluish White
+rgb F7F7FF Slightly Bluish White
+
+rgb 0000E5 Slightly Dark Blue
+rgb 2D2DE5 Slightly Dark Slightly Whitish Blue
+rgb 5B5BE5 Slightly Dark Whitish Blue
+rgb 8989E5 Slightly Dark White Blue
+rgb ACACE5 Slightly Dark Bluish White
+rgb CECEE5 Slightly Dark Moderately Bluish White
+
+rgb 0000BF Medium Dark Blue
+rgb 2626BF Medium Dark Slightly Whitish Blue
+rgb 4C4CBF Medium Dark Whitish Blue
+rgb 7272BF Medium Dark White Blue
+rgb 8F8FBF Medium Dark Bluish White
+rgb ACACBF Medium Dark Moderately Bluish White
+
+rgb 000099 Dark Blue
+rgb 1E1E99 Dark Slightly Whitish Blue
+rgb 3D3D99 Dark Whitish Blue
+rgb 5B5B99 Dark White Blue
+rgb 727299 Dark Bluish White
+rgb 898999 Dark Moderately Bluish White
+
+rgb 000066 Very Dark Blue
+rgb 141466 Very Dark Slightly Whitish Blue
+rgb 292966 Very Dark Whitish Blue
+rgb 3D3D66 Very Dark White Blue
+rgb 4C4C66 Very Dark Bluish White
+rgb 5C5C66 Very Dark Moderately Bluish White
+
+rgb 000033 Extremely Dark Blue
+rgb 0A0A33 Extremely Dark Slightly Whitish Blue
+rgb 141433 Extremely Dark Whitish Blue
+rgb 1E1E33 Extremely Dark White Blue
+rgb 262633 Extremely Dark Bluish White
+rgb 2E2E33 Extremely Dark Moderately Bluish White
+
+rgb 7F00FF Violet
+rgb 9932FF Slightly Whitish Violet
+rgb B265FF Whitish Violet
+rgb CC99FF White Violet
+rgb DFBFFF Violetish White
+rgb ECD9FF Moderately Violetish White
+rgb FBF7FF Slightly Violetish White
+
+rgb 7200E5 Slightly Dark Violet
+rgb 892DE5 Slightly Dark Slightly Whitish Violet
+rgb A05BE5 Slightly Dark Whitish Violet
+rgb B789E5 Slightly Dark White Violet
+rgb C8ACE5 Slightly Dark Violetish White
+rgb D9CEE5 Slightly Dark Moderately Violetish White
+
+rgb 5F00BF Medium Dark Violet
+rgb 7226BF Medium Dark Slightly Whitish Violet
+rgb 854CBF Medium Dark Whitish Violet
+rgb 9872BF Medium Dark White Violet
+rgb A78FBF Medium Dark Violetish White
+rgb B5ABBF Medium Dark Moderately Violetish White
+
+rgb 4C0099 Dark Violet
+rgb 5B1E99 Dark Slightly Whitish Violet
+rgb 6B3D99 Dark Whitish Violet
+rgb 7A5B99 Dark White Violet
+rgb 837096 Dark Violetish White
+rgb 918999 Dark Moderately Violetish White
+
+rgb 330066 Very Dark Violet
+rgb 3D1466 Very Dark Slightly Whitish Violet
+rgb 472966 Very Dark Whitish Violet
+rgb 513D66 Very Dark White Violet
+rgb 594C66 Very Dark Violetish White
+rgb 615C66 Very Dark Moderately Violetish White
+
+rgb 190033 Extremely Dark Violet
+rgb 1E0A33 Extremely Dark Slightly Whitish Violet
+rgb 231433 Extremely Dark Whitish Violet
+rgb 281E33 Extremely Dark White Violet
+rgb 2A2430 Extremely Dark Violetish White
+rgb 302D33 Extremely Dark Moderately Violetish White
+
+rgb FF00FF Magenta
+rgb FF32FF Slightly Whitish Magenta
+rgb FF65FF Whitish Magenta
+rgb FF99FF White Magenta
+rgb FFBFFF Magentaish White
+rgb FFD8FF Moderately Magentaish White
+rgb FFF7FF Slightly Magentaish White
+
+rgb E500E5 Slightly Dark Magenta
+rgb E52DE5 Slightly Dark Slightly Whitish Magenta
+rgb E55BE5 Slightly Dark Whitish Magenta
+rgb E589E5 Slightly Dark White Magenta
+rgb E5ACE5 Slightly Dark Magentaish White
+rgb E5CEE5 Slightly Dark Moderately Magentaish White
+
+rgb BF00BF Medium Dark Magenta
+rgb BF26BF Medium Dark Slightly Whitish Magenta
+rgb BF4CBF Medium Dark Whitish Magenta
+rgb BF72BF Medium Dark White Magenta
+rgb BF8FBF Medium Dark Magentaish White
+rgb BFACBF Medium Dark Moderately Magentaish White
+
+rgb 990099 Dark Magenta
+rgb 991E99 Dark Slightly Whitish Magenta
+rgb 993D99 Dark Whitish Magenta
+rgb 995B99 Dark White Magenta
+rgb 997299 Dark Magentaish White
+rgb 998999 Dark Moderately Magentaish White
+
+rgb 660066 Very Dark Magenta
+rgb 661466 Very Dark Slightly Whitish Magenta
+rgb 662966 Very Dark Whitish Magenta
+rgb 663D66 Very Dark White Magenta
+rgb 664C66 Very Dark Magentaish White
+rgb 665C66 Very Dark Moderately Magentaish White
+
+rgb 330033 Extremely Dark Magenta
+rgb 330A33 Extremely Dark Slightly Whitish Magenta
+rgb 331433 Extremely Dark Whitish Magenta
+rgb 331E33 Extremely Dark White Magenta
+rgb 332633 Extremely Dark Magentaish White
+rgb 302B30 Extremely Dark Moderately Magentaish White
+
+rgb FF007F Pink
+rgb FF3299 Slightly Whitish Pink
+rgb FF65B2 Whitish Pink
+rgb FF99CC White Pink
+rgb FFBFDF Pinkish White
+rgb FFD9EC Moderately Pinkish White
+rgb FFF7FB Slightly Pinkish White
+
+rgb E50072 Slightly Dark Pink
+rgb E52D89 Slightly Dark Slightly Whitish Pink
+rgb E55A9F Slightly Dark Whitish Pink
+rgb E589B7 Slightly Dark White Pink
+rgb E5ACC8 Slightly Dark Pinkish White
+rgb E5CED9 Slightly Dark Moderately Pinkish White
+
+rgb BF005F Medium Dark Pink
+rgb BF2672 Medium Dark Slightly Whitish Pink
+rgb BF4C85 Medium Dark Whitish Pink
+rgb BF7298 Medium Dark White Pink
+rgb BF8FA7 Medium Dark Pinkish White
+rgb BFAAB4 Medium Dark Moderately Pinkish White
+
+rgb 99004C Dark Pink
+rgb 991E5B Dark Slightly Whitish Pink
+rgb 993D6B Dark Whitish Pink
+rgb 995B7A Dark White Pink
+rgb 997285 Dark Pinkish White
+rgb 998991 Dark Moderately Pinkish White
+
+rgb 660033 Very Dark Pink
+rgb 66143D Very Dark Slightly Whitish Pink
+rgb 662947 Very Dark Whitish Pink
+rgb 663D51 Very Dark White Pink
+rgb 664C59 Very Dark Pinkish White
+rgb 665C61 Very Dark Moderately Pinkish White
+
+rgb 330019 Extremely Dark Pink
+rgb 330A1E Extremely Dark Slightly Whitish Pink
+rgb 331423 Extremely Dark Whitish Pink
+rgb 331E28 Extremely Dark White Pink
+rgb 30242A Extremely Dark Pinkish White
+rgb 332D30 Extremely Dark Moderately Pinkish White
+
+rgb FF3F00 Red-Orange
+rgb FF6532 Slightly Whitish Red-Orange
+rgb FF8B65 Whitish Red-Orange
+rgb FFB299 White Red-Orange
+rgb FFCFBF Red-Orange'ish White
+rgb FFE2D8 Moderately Red-Orange'ish White
+rgb FFF9F7 Slightly Red-Orange'ish White
+
+rgb E53900 Slightly Dark Red-Orange
+rgb E55B2D Slightly Dark Slightly Whitish Red-Orange
+rgb E57D5B Slightly Dark Whitish Red-Orange
+rgb E5A089 Slightly Dark White Red-Orange
+rgb E5BAAC Slightly Dark Red-Orange'ish White
+rgb E5D4CE Slightly Dark Moderately Red-Orange'ish White
+
+rgb BF2F00 Medium Dark Red-Orange
+rgb BF4B25 Medium Dark Slightly Whitish Red-Orange
+rgb BF684C Medium Dark Whitish Red-Orange
+rgb BF8572 Medium Dark White Red-Orange
+rgb BF9B8F Medium Dark Red-Orange'ish White
+rgb BFB0AB Medium Dark Moderately Red-Orange'ish White
+
+rgb 992600 Dark Red-Orange
+rgb 993D1E Dark Slightly Whitish Red-Orange
+rgb 99543D Dark Whitish Red-Orange
+rgb 996A5B Dark White Red-Orange
+rgb 997C72 Dark Red-Orange'ish White
+rgb 998D89 Dark Moderately Red-Orange'ish White
+
+rgb 661900 Very Dark Red-Orange
+rgb 662814 Very Dark Slightly Whitish Red-Orange
+rgb 663829 Very Dark Whitish Red-Orange
+rgb 66473D Very Dark White Red-Orange
+rgb 66524C Very Dark Red-Orange'ish White
+rgb 665E5B Very Dark Moderately Red-Orange'ish White
+
+rgb 330D00 Extremely Dark Red-Orange
+rgb 33140A Extremely Dark Slightly Whitish Red-Orange
+rgb 331C14 Extremely Dark Whitish Red-Orange
+rgb 33231E Extremely Dark White Red-Orange
+rgb 332926 Extremely Dark Red-Orange'ish White
+rgb 2D2A29 Extremely Dark Moderately Red-Orange'ish White
+
+rgb FFBF00 Orange-Yellow
+rgb FFCB32 Slightly Whitish Orange-Yellow
+rgb FFD865 Whitish Orange-Yellow
+rgb FFE599 White Orange-Yellow
+rgb FFEFBF Orange-Yellow'ish White
+rgb FFF5D8 Moderately Orange-Yellow'ish White
+rgb FFFDF7 Slightly Orange-Yellow'ish White
+
+rgb E5AB00 Slightly Dark Orange-Yellow
+rgb E5B72D Slightly Dark Slightly Whitish Orange-Yellow
+rgb E5C259 Slightly Dark Whitish Orange-Yellow
+rgb E5CE89 Slightly Dark White Orange-Yellow
+rgb E5D7AC Slightly Dark Orange-Yellow'ish White
+rgb E5DFCE Slightly Dark Moderately Orange-Yellow'ish White
+
+rgb BF8F00 Medium Dark Orange-Yellow
+rgb BF9826 Medium Dark Slightly Whitish Orange-Yellow
+rgb BFA24C Medium Dark Whitish Orange-Yellow
+rgb BCA970 Medium Dark White Orange-Yellow
+rgb BFB38F Medium Dark Orange-Yellow'ish White
+rgb BFBAAC Medium Dark Moderately Orange-Yellow'ish White
+
+rgb 997200 Dark Orange-Yellow
+rgb 997A1E Dark Slightly Whitish Orange-Yellow
+rgb 99823D Dark Whitish Orange-Yellow
+rgb 99895B Dark White Orange-Yellow
+rgb 998F72 Dark Orange-Yellow'ish White
+rgb 999589 Dark Moderately Orange-Yellow'ish White
+
+rgb 664C00 Very Dark Orange-Yellow
+rgb 665114 Very Dark Slightly Whitish Orange-Yellow
+rgb 665628 Very Dark Whitish Orange-Yellow
+rgb 665C3D Very Dark White Orange-Yellow
+rgb 665F4C Very Dark Orange-Yellow'ish White
+rgb 66635B Very Dark Moderately Orange-Yellow'ish White
+
+rgb 332600 Extremely Dark Orange-Yellow
+rgb 33290A Extremely Dark Slightly Whitish Orange-Yellow
+rgb 332B14 Extremely Dark Whitish Orange-Yellow
+rgb 302B1D Extremely Dark White Orange-Yellow
+rgb 302D24 Extremely Dark Orange-Yellow'ish White
+rgb 302F2C Extremely Dark Moderately Orange-Yellow'ish White
+
+rgb BFFF00 Yellow-Lime
+rgb CCFF32 Slightly Whitish Yellow-Lime
+rgb D8FF65 Whitish Yellow-Lime
+rgb E5FF99 White Yellow-Lime
+rgb EFFFBF Yellow-Lime'ish White
+rgb F5FFD8 Moderately Yellow-Lime'ish White
+rgb FDFFF7 Slightly Yellow-Lime'ish White
+
+rgb ABE500 Slightly Dark Yellow-Lime
+rgb B7E52D Slightly Dark Slightly Whitish Yellow-Lime
+rgb C2E559 Slightly Dark Whitish Yellow-Lime
+rgb CEE589 Slightly Dark White Yellow-Lime
+rgb D7E5AC Slightly Dark Yellow-Lime'ish White
+rgb DFE5CE Slightly Dark Moderately Yellow-Lime'ish White
+
+rgb 8FBF00 Medium Dark Yellow-Lime
+rgb 98BF25 Medium Dark Slightly Whitish Yellow-Lime
+rgb A2BF4C Medium Dark Whitish Yellow-Lime
+rgb ABBF72 Medium Dark White Yellow-Lime
+rgb B3BF8F Medium Dark Yellow-Lime'ish White
+rgb BABFAB Medium Dark Moderately Yellow-Lime'ish White
+
+rgb 729900 Dark Yellow-Lime
+rgb 7A991E Dark Slightly Whitish Yellow-Lime
+rgb 82993D Dark Whitish Yellow-Lime
+rgb 89995B Dark White Yellow-Lime
+rgb 8F9972 Dark Yellow-Lime'ish White
+rgb 959989 Dark Moderately Yellow-Lime'ish White
+
+rgb 4C6600 Very Dark Yellow-Lime
+rgb 516614 Very Dark Slightly Whitish Yellow-Lime
+rgb 566628 Very Dark Whitish Yellow-Lime
+rgb 5C663D Very Dark White Yellow-Lime
+rgb 5F664C Very Dark Yellow-Lime'ish White
+rgb 63665B Very Dark Moderately Yellow-Lime'ish White
+
+rgb 263300 Extremely Dark Yellow-Lime
+rgb 29330A Extremely Dark Slightly Whitish Yellow-Lime
+rgb 2B3314 Extremely Dark Whitish Yellow-Lime
+rgb 2E331F Extremely Dark White Yellow-Lime
+rgb 2D3024 Extremely Dark Yellow-Lime'ish White
+rgb 2F302C Extremely Dark Moderately Yellow-Lime'ish White
+
+rgb 3FFF00 Lime-Green
+rgb 65FF32 Slightly Whitish Lime-Green
+rgb 8BFF65 Whitish Lime-Green
+rgb B2FF99 White Lime-Green
+rgb CFFFBF Lime-Green'ish White
+rgb E2FFD8 Moderately Lime-Green'ish White
+rgb F9FFF7 Slightly Lime-Green'ish White
+
+rgb 39E500 Slightly Dark Lime-Green
+rgb 5BE52D Slightly Dark Slightly Whitish Lime-Green
+rgb 7EE55B Slightly Dark Whitish Lime-Green
+rgb A0E589 Slightly Dark White Lime-Green
+rgb BAE5AC Slightly Dark Lime-Green'ish White
+rgb D4E5CE Slightly Dark Moderately Lime-Green'ish White
+
+rgb 2FBF00 Medium Dark Lime-Green
+rgb 4CBF26 Medium Dark Slightly Whitish Lime-Green
+rgb 68BF4C Medium Dark Whitish Lime-Green
+rgb 85BF72 Medium Dark White Lime-Green
+rgb 9BBF8F Medium Dark Lime-Green'ish White
+rgb AEBCA9 Medium Dark Moderately Lime-Green'ish White
+
+rgb 269900 Dark Lime-Green
+rgb 3D991E Dark Slightly Whitish Lime-Green
+rgb 54993D Dark Whitish Lime-Green
+rgb 6A995B Dark White Lime-Green
+rgb 7B9972 Dark Lime-Green'ish White
+rgb 8D9989 Dark Moderately Lime-Green'ish White
+
+rgb 196600 Very Dark Lime-Green
+rgb 286614 Very Dark Slightly Whitish Lime-Green
+rgb 376628 Very Dark Whitish Lime-Green
+rgb 47663D Very Dark White Lime-Green
+rgb 52664C Very Dark Lime-Green'ish White
+rgb 5B6358 Very Dark Moderately Lime-Green'ish White
+
+rgb 0D3300 Extremely Dark Lime-Green
+rgb 14330A Extremely Dark Slightly Whitish Lime-Green
+rgb 1C3314 Extremely Dark Whitish Lime-Green
+rgb 23331E Extremely Dark White Lime-Green
+rgb 273024 Extremely Dark Lime-Green'ish White
+rgb 2D302C Extremely Dark Moderately Lime-Green'ish White
+
+rgb 00FF3F Green-Spring
+rgb 32FF65 Slightly Whitish Green-Spring
+rgb 65FF8B Whitish Green-Spring
+rgb 99FFB2 White Green-Spring
+rgb BFFFCF Green-Spring'ish White
+rgb D8FFE2 Moderately Green-Spring'ish White
+rgb F7FFF9 Slightly Green-Spring'ish White
+
+rgb 00E539 Slightly Dark Green-Spring
+rgb 2DE55B Slightly Dark Slightly Whitish Green-Spring
+rgb 59E57C Slightly Dark Whitish Green-Spring
+rgb 89E5A0 Slightly Dark White Green-Spring
+rgb ACE5BA Slightly Dark Green-Spring'ish White
+rgb CEE5D4 Slightly Dark Moderately Green-Spring'ish White
+
+rgb 00BF2F Medium Dark Green-Spring
+rgb 26BF4C Medium Dark Slightly Whitish Green-Spring
+rgb 4CBF68 Medium Dark Whitish Green-Spring
+rgb 72BF85 Medium Dark White Green-Spring
+rgb 8FBF9B Medium Dark Green-Spring'ish White
+rgb ACBFB1 Medium Dark Moderately Green-Spring'ish White
+
+rgb 009926 Dark Green-Spring
+rgb 1E993D Dark Slightly Whitish Green-Spring
+rgb 3D9954 Dark Whitish Green-Spring
+rgb 5B996B Dark White Green-Spring
+rgb 72997C Dark Green-Spring'ish White
+rgb 89998D Dark Moderately Green-Spring'ish White
+
+rgb 006619 Very Dark Green-Spring
+rgb 146628 Very Dark Slightly Whitish Green-Spring
+rgb 296638 Very Dark Whitish Green-Spring
+rgb 3D6647 Very Dark White Green-Spring
+rgb 4C6652 Very Dark Green-Spring'ish White
+rgb 5B665E Very Dark Moderately Green-Spring'ish White
+
+rgb 00330D Extremely Dark Green-Spring
+rgb 0A3314 Extremely Dark Slightly Whitish Green-Spring
+rgb 14331C Extremely Dark Whitish Green-Spring
+rgb 1F3324 Extremely Dark White Green-Spring
+rgb 263329 Extremely Dark Green-Spring'ish White
+rgb 292D2A Extremely Dark Moderately Green-Spring'ish White
+
+rgb 00FFBF Spring-Cyan
+rgb 32FFCC Slightly Whitish Spring-Cyan
+rgb 65FFD8 Whitish Spring-Cyan
+rgb 99FFE5 White Spring-Cyan
+rgb BFFFEF Spring-Cyan'ish White
+rgb D8FFF5 Moderately Spring-Cyan'ish White
+rgb F7FFFD Slightly Spring-Cyan'ish White
+
+rgb 00E5AB Slightly Dark Spring-Cyan
+rgb 2DE5B7 Slightly Dark Slightly Whitish Spring-Cyan
+rgb 5BE5C2 Slightly Dark Whitish Spring-Cyan
+rgb 89E5CE Slightly Dark White Spring-Cyan
+rgb ACE5D7 Slightly Dark Spring-Cyan'ish White
+rgb CEE5DF Slightly Dark Moderately Spring-Cyan'ish White
+
+rgb 00BF8F Medium Dark Spring-Cyan
+rgb 25BF98 Medium Dark Slightly Whitish Spring-Cyan
+rgb 4CBFA2 Medium Dark Whitish Spring-Cyan
+rgb 72BFAB Medium Dark White Spring-Cyan
+rgb 8FBFB3 Medium Dark Spring-Cyan'ish White
+rgb ACBFBA Medium Dark Moderately Spring-Cyan'ish White
+
+rgb 009972 Dark Spring-Cyan
+rgb 1E997A Dark Slightly Whitish Spring-Cyan
+rgb 3D9982 Dark Whitish Spring-Cyan
+rgb 5B9989 Dark White Spring-Cyan
+rgb 72998F Dark Spring-Cyan'ish White
+rgb 899995 Dark Moderately Spring-Cyan'ish White
+
+rgb 00664C Very Dark Spring-Cyan
+rgb 146651 Very Dark Slightly Whitish Spring-Cyan
+rgb 286656 Very Dark Whitish Spring-Cyan
+rgb 3D665C Very Dark White Spring-Cyan
+rgb 4C665F Very Dark Spring-Cyan'ish White
+rgb 5B6663 Very Dark Moderately Spring-Cyan'ish White
+
+rgb 003326 Extremely Dark Spring-Cyan
+rgb 0A3329 Extremely Dark Slightly Whitish Spring-Cyan
+rgb 14332B Extremely Dark Whitish Spring-Cyan
+rgb 1F332E Extremely Dark White Spring-Cyan
+rgb 24302D Extremely Dark Spring-Cyan'ish White
+rgb 292D2C Extremely Dark Moderately Spring-Cyan'ish White
+
+rgb 00BFFF Cyan-Azure
+rgb 32CCFF Slightly Whitish Cyan-Azure
+rgb 65D8FF Whitish Cyan-Azure
+rgb 99E5FF White Cyan-Azure
+rgb BFEFFF Cyan-Azure'ish White
+rgb D8F5FF Moderately Cyan-Azure'ish White
+rgb F7FDFF Slightly Cyan-Azure'ish White
+
+rgb 00ACE5 Slightly Dark Cyan-Azure
+rgb 2DB7E5 Slightly Dark Slightly Whitish Cyan-Azure
+rgb 5BC3E5 Slightly Dark Whitish Cyan-Azure
+rgb 89CEE5 Slightly Dark White Cyan-Azure
+rgb ACD7E5 Slightly Dark Cyan-Azure'ish White
+rgb CEDFE5 Slightly Dark Moderately Cyan-Azure'ish White
+
+rgb 008FBF Medium Dark Cyan-Azure
+rgb 2598BF Medium Dark Slightly Whitish Cyan-Azure
+rgb 4CA2BF Medium Dark Whitish Cyan-Azure
+rgb 72ABBF Medium Dark White Cyan-Azure
+rgb 8FB3BF Medium Dark Cyan-Azure'ish White
+rgb ACBABF Medium Dark Moderately Cyan-Azure'ish White
+
+rgb 007299 Dark Cyan-Azure
+rgb 1E7A99 Dark Slightly Whitish Cyan-Azure
+rgb 3D8299 Dark Whitish Cyan-Azure
+rgb 5B8999 Dark White Cyan-Azure
+rgb 728F99 Dark Cyan-Azure'ish White
+rgb 899599 Dark Moderately Cyan-Azure'ish White
+
+rgb 004C66 Very Dark Cyan-Azure
+rgb 145166 Very Dark Slightly Whitish Cyan-Azure
+rgb 295666 Very Dark Whitish Cyan-Azure
+rgb 3D5B66 Very Dark White Cyan-Azure
+rgb 4C5F66 Very Dark Cyan-Azure'ish White
+rgb 5B6366 Very Dark Moderately Cyan-Azure'ish White
+
+rgb 002633 Extremely Dark Cyan-Azure
+rgb 0A2933 Extremely Dark Slightly Whitish Cyan-Azure
+rgb 142B33 Extremely Dark Whitish Cyan-Azure
+rgb 1E2E33 Extremely Dark White Cyan-Azure
+rgb 242D30 Extremely Dark Cyan-Azure'ish White
+rgb 292C2D Extremely Dark Moderately Cyan-Azure'ish White
+
+rgb 003FFF Azure-Blue
+rgb 3265FF Slightly Whitish Azure-Blue
+rgb 658BFF Whitish Azure-Blue
+rgb 99B2FF White Azure-Blue
+rgb BFCFFF Azure-Blue'ish White
+rgb D8E2FF Moderately Azure-Blue'ish White
+rgb F7F9FF Slightly Azure-Blue'ish White
+
+rgb 0039E5 Slightly Dark Azure-Blue
+rgb 2D5BE5 Slightly Dark Slightly Whitish Azure-Blue
+rgb 5B7EE5 Slightly Dark Whitish Azure-Blue
+rgb 89A0E5 Slightly Dark White Azure-Blue
+rgb ACBAE5 Slightly Dark Azure-Blue'ish White
+rgb CED4E5 Slightly Dark Moderately Azure-Blue'ish White
+
+rgb 002FBF Medium Dark Azure-Blue
+rgb 264CBF Medium Dark Slightly Whitish Azure-Blue
+rgb 4C68BF Medium Dark Whitish Azure-Blue
+rgb 7285BF Medium Dark White Azure-Blue
+rgb 8F9BBF Medium Dark Azure-Blue'ish White
+rgb A9AEBC Medium Dark Moderately Azure-Blue'ish White
+
+rgb 002699 Dark Azure-Blue
+rgb 1E3D99 Dark Slightly Whitish Azure-Blue
+rgb 3D5499 Dark Whitish Azure-Blue
+rgb 5B6B99 Dark White Azure-Blue
+rgb 727C99 Dark Azure-Blue'ish White
+rgb 898D99 Dark Moderately Azure-Blue'ish White
+
+rgb 001966 Very Dark Azure-Blue
+rgb 142866 Very Dark Slightly Whitish Azure-Blue
+rgb 293866 Very Dark Whitish Azure-Blue
+rgb 3D4766 Very Dark White Azure-Blue
+rgb 4C5266 Very Dark Azure-Blue'ish White
+rgb 5B5E66 Very Dark Moderately Azure-Blue'ish White
+
+rgb 000D33 Extremely Dark Azure-Blue
+rgb 0A1433 Extremely Dark Slightly Whitish Azure-Blue
+rgb 141C33 Extremely Dark Whitish Azure-Blue
+rgb 1F2433 Extremely Dark White Azure-Blue
+rgb 262933 Extremely Dark Azure-Blue'ish White
+rgb 292A2D Extremely Dark Moderately Azure-Blue'ish White
+
+rgb 3F00FF Blue-Violet
+rgb 6532FF Slightly Whitish Blue-Violet
+rgb 8B65FF Whitish Blue-Violet
+rgb B299FF White Blue-Violet
+rgb CFBFFF Blue-Violet'ish White
+rgb E2D8FF Moderately Blue-Violet'ish White
+rgb F9F7FF Slightly Blue-Violet'ish White
+
+rgb 3900E5 Slightly Dark Blue-Violet
+rgb 5B2DE5 Slightly Dark Slightly Whitish Blue-Violet
+rgb 7D5BE5 Slightly Dark Whitish Blue-Violet
+rgb A089E5 Slightly Dark White Blue-Violet
+rgb BAACE5 Slightly Dark Blue-Violet'ish White
+rgb D4CEE5 Slightly Dark Moderately Blue-Violet'ish White
+
+rgb 2F00BF Medium Dark Blue-Violet
+rgb 4C26BF Medium Dark Slightly Whitish Blue-Violet
+rgb 684CBF Medium Dark Whitish Blue-Violet
+rgb 8572BF Medium Dark White Blue-Violet
+rgb 9B8FBF Medium Dark Blue-Violet'ish White
+rgb AFAABF Medium Dark Moderately Blue-Violet'ish White
+
+rgb 260099 Dark Blue-Violet
+rgb 3D1E99 Dark Slightly Whitish Blue-Violet
+rgb 543D99 Dark Whitish Blue-Violet
+rgb 6B5B99 Dark White Blue-Violet
+rgb 7C7299 Dark Blue-Violet'ish White
+rgb 8D8999 Dark Moderately Blue-Violet'ish White
+
+rgb 190066 Very Dark Blue-Violet
+rgb 281466 Very Dark Slightly Whitish Blue-Violet
+rgb 382966 Very Dark Whitish Blue-Violet
+rgb 473D66 Very Dark White Blue-Violet
+rgb 524C66 Very Dark Blue-Violet'ish White
+rgb 5B5863 Very Dark Moderately Blue-Violet'ish White
+
+rgb 0D0033 Extremely Dark Blue-Violet
+rgb 140A33 Extremely Dark Slightly Whitish Blue-Violet
+rgb 1C1433 Extremely Dark Whitish Blue-Violet
+rgb 231E33 Extremely Dark White Blue-Violet
+rgb 292633 Extremely Dark Blue-Violet'ish White
+rgb 2A292D Extremely Dark Moderately Blue-Violet'ish White
+
+rgb BF00FF Violet-Magenta
+rgb CC32FF Slightly Whitish Violet-Magenta
+rgb D865FF Whitish Violet-Magenta
+rgb E599FF White Violet-Magenta
+rgb EFBFFF Violet-Magenta'ish White
+rgb F2D8FF Moderately Violet-Magenta'ish White
+rgb FDF7FF Slightly Violet-Magenta'ish White
+
+rgb AC00E5 Slightly Dark Violet-Magenta
+rgb B72DE5 Slightly Dark Slightly Whitish Violet-Magenta
+rgb C35BE5 Slightly Dark Whitish Violet-Magenta
+rgb CE89E5 Slightly Dark White Violet-Magenta
+rgb D7ACE5 Slightly Dark Violet-Magenta'ish White
+rgb DFCEE5 Slightly Dark Moderately Violet-Magenta'ish White
+
+rgb 8F00BF Medium Dark Violet-Magenta
+rgb 9926BF Medium Dark Slightly Whitish Violet-Magenta
+rgb A24CBF Medium Dark Whitish Violet-Magenta
+rgb AB72BF Medium Dark White Violet-Magenta
+rgb B38FBF Medium Dark Violet-Magenta'ish White
+rgb BAACBF Medium Dark Moderately Violet-Magenta'ish White
+
+rgb 720099 Dark Violet-Magenta
+rgb 7A1E99 Dark Slightly Whitish Violet-Magenta
+rgb 823D99 Dark Whitish Violet-Magenta
+rgb 895B99 Dark White Violet-Magenta
+rgb 8F7299 Dark Violet-Magenta'ish White
+rgb 958999 Dark Moderately Violet-Magenta'ish White
+
+rgb 4C0066 Very Dark Violet-Magenta
+rgb 511466 Very Dark Slightly Whitish Violet-Magenta
+rgb 562866 Very Dark Whitish Violet-Magenta
+rgb 5B3D66 Very Dark White Violet-Magenta
+rgb 5F4C66 Very Dark Violet-Magenta'ish White
+rgb 635B66 Very Dark Moderately Violet-Magenta'ish White
+
+rgb 260033 Extremely Dark Violet-Magenta
+rgb 280A33 Extremely Dark Slightly Whitish Violet-Magenta
+rgb 2B1433 Extremely Dark Whitish Violet-Magenta
+rgb 2B1D30 Extremely Dark White Violet-Magenta
+rgb 302633 Extremely Dark Violet-Magenta'ish White
+rgb 2C292D Extremely Dark Moderately Violet-Magenta'ish White
+
+rgb FF00BF Magenta-Pink
+rgb FF32CC Slightly Whitish Magenta-Pink
+rgb FF65D8 Whitish Magenta-Pink
+rgb FF99E5 White Magenta-Pink
+rgb FFBFEF Magenta-Pink'ish White
+rgb FFD8F5 Moderately Magenta-Pink'ish White
+rgb FFF7FD Slightly Magenta-Pink'ish White
+
+rgb E500AC Slightly Dark Magenta-Pink
+rgb E52DB7 Slightly Dark Slightly Whitish Magenta-Pink
+rgb E55BC3 Slightly Dark Whitish Magenta-Pink
+rgb E589CE Slightly Dark White Magenta-Pink
+rgb E5ACD7 Slightly Dark Magenta-Pink'ish White
+rgb E5CEDF Slightly Dark Moderately Magenta-Pink'ish White
+
+rgb BF008F Medium Dark Magenta-Pink
+rgb BF2699 Medium Dark Slightly Whitish Magenta-Pink
+rgb BF4CA2 Medium Dark Whitish Magenta-Pink
+rgb BF72AB Medium Dark White Magenta-Pink
+rgb BF8FB3 Medium Dark Magenta-Pink'ish White
+rgb BFACBA Medium Dark Moderately Magenta-Pink'ish White
+
+rgb 990072 Dark Magenta-Pink
+rgb 991E7A Dark Slightly Whitish Magenta-Pink
+rgb 993D82 Dark Whitish Magenta-Pink
+rgb 995B89 Dark White Magenta-Pink
+rgb 99728F Dark Magenta-Pink'ish White
+rgb 998995 Dark Moderately Magenta-Pink'ish White
+
+rgb 66004C Very Dark Magenta-Pink
+rgb 661451 Very Dark Slightly Whitish Magenta-Pink
+rgb 662956 Very Dark Whitish Magenta-Pink
+rgb 663D5C Very Dark White Magenta-Pink
+rgb 664C5F Very Dark Magenta-Pink'ish White
+rgb 665B63 Very Dark Moderately Magenta-Pink'ish White
+
+rgb 330026 Extremely Dark Magenta-Pink
+rgb 330A29 Extremely Dark Slightly Whitish Magenta-Pink
+rgb 33142B Extremely Dark Whitish Magenta-Pink
+rgb 301D2B Extremely Dark White Magenta-Pink
+rgb 30242D Extremely Dark Magenta-Pink'ish White
+rgb 2D292C Extremely Dark Moderately Magenta-Pink'ish White
+
+rgb FF003F Pink-Red
+rgb FF3265 Slightly Whitish Pink-Red
+rgb FF658B Whitish Pink-Red
+rgb FF99B2 White Pink-Red
+rgb FFBFCF Pink-Red'ish White
+rgb FFD8E2 Moderately Pink-Red'ish White
+rgb FFF7F9 Slightly Pink-Red'ish White
+
+rgb E50039 Slightly Dark Pink-Red
+rgb E52D5B Slightly Dark Slightly Whitish Pink-Red
+rgb E55B7E Slightly Dark Whitish Pink-Red
+rgb E589A0 Slightly Dark White Pink-Red
+rgb E5ACBA Slightly Dark Pink-Red'ish White
+rgb E5CCD2 Slightly Dark Moderately Pink-Red'ish White
+
+rgb BF002F Medium Dark Pink-Red
+rgb BF264C Medium Dark Slightly Whitish Pink-Red
+rgb BF4C68 Medium Dark Whitish Pink-Red
+rgb BF7285 Medium Dark White Pink-Red
+rgb BF8F9B Medium Dark Pink-Red'ish White
+rgb BCA9AE Medium Dark Moderately Pink-Red'ish White
+
+rgb 990026 Dark Pink-Red
+rgb 991E3D Dark Slightly Whitish Pink-Red
+rgb 993D54 Dark Whitish Pink-Red
+rgb 995B6B Dark White Pink-Red
+rgb 99727C Dark Pink-Red'ish White
+rgb 99898D Dark Moderately Pink-Red'ish White
+
+rgb 660019 Very Dark Pink-Red
+rgb 661428 Very Dark Slightly Whitish Pink-Red
+rgb 662938 Very Dark Whitish Pink-Red
+rgb 663D47 Very Dark White Pink-Red
+rgb 664C52 Very Dark Pink-Red'ish White
+rgb 63585B Very Dark Moderately Pink-Red'ish White
+
+rgb 33000C Extremely Dark Pink-Red
+rgb 330A14 Extremely Dark Slightly Whitish Pink-Red
+rgb 33141C Extremely Dark Whitish Pink-Red
+rgb 331F24 Extremely Dark White Pink-Red
+rgb 332629 Extremely Dark Pink-Red'ish White
+rgb 2D292A Extremely Dark Moderately Pink-Red'ish White
+
